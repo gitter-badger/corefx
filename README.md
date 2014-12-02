@@ -1,5 +1,7 @@
 # .NET Core
 
+GARBAGE !
+
 [![Build status][build-status-image]][build-status]  [![Issue Stats][pull-requests-image]][pull-requests]  [![Issue Stats][issues-closed-image]][issues-closed]
 
 [build-status-image]: https://ci.appveyor.com/api/projects/status/xje8bkekyu130e9y/branch/master?svg=true
